@@ -1,0 +1,5 @@
+server:
+  port: 8081
+person:
+  lastName: 张三
+  age: 13
